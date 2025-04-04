@@ -1,0 +1,22 @@
+{
+  "name": "fashion",
+  "version": "1.0.0",
+  "description": "Digital E-commerce platform for clothes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarath-Kumar-s-m/Fashion.git"
+  },
+  "keywords": [
+    "fashion"
+  ],
+  "author": "sarath kumar.s.m",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarath-Kumar-s-m/Fashion/issues"
+  },
+  "homepage": "https://github.com/Sarath-Kumar-s-m/Fashion#readme"
+}
