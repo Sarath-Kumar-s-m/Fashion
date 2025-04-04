@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Sarath-Kumar-s-m/Fashion/issues"
   },
-  "homepage": "https://github.com/Sarath-Kumar-s-m/Fashion#readme"
+  "homepage": "https://github.com/Sarath-Kumar-s-m/Fashion#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
